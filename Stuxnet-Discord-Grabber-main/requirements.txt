@@ -1,0 +1,32 @@
+# Logger
+psutil
+cryptography
+requests
+pypiwin32
+wmi
+requests-toolbelt
+# Builder
+colorama
+pyinstaller
+cx-Freeze
+pyuac
+pillow
+pycryptodomex
+customtkinter
+image
+b64
+os
+subprocess
+sys
+json
+pyaes
+random
+shutil
+sqlite3
+re
+traceback
+time
+ctypes
+logging
+zlib
+
